@@ -1,0 +1,300 @@
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9b13bdeb-147f-4407-98d9-faa85d69750b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2546f69c-2b99-4764-b019-50060970e7ff.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/298783da-8721-4e49-813a-40da0291675d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/75aa8ba1-dd24-4a9f-b8b9-8f307012cb03.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/929aa39c-9be2-4469-8010-16224957e751.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a56b3013-72f2-4adc-949e-2bbface9f06d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0471492c-bdba-48da-90c1-f7084224bc4a.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e3cdb7a6-c183-4f60-98e6-f03c759226b4.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d3d787cd-6d01-4893-9b08-d417672715db.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/94559f6e-b3fa-4186-80e6-4e0f4fd5bad4.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/594bec17-9966-4fe1-9f0b-b0929099dafe.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0ba55fa0-62b8-4110-af98-9d63c2f658e5.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f3d6df25-777d-4532-8709-242fd9ebc8c3.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c034dba2-76db-48d0-8003-fa0cff620e59.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/07d8621c-8770-4c60-9fc7-6003dd8b2e73.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/93d2d382-0043-44d9-ac60-e5fae8f8a3dd.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/b4350b7d-f4c1-46af-a41e-54b1b34c304f.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4b44f917-1a9b-4b55-bb0f-1eec4e587c5e.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/967dca1c-7a9e-42dd-aa19-07b06f56f8f6.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4ad21e05-be6c-412e-84fa-65596f9b0cc0.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f6ac9f92-cd45-4d9a-b327-d4b0f4cd3024.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7dfe7366-3a75-4db5-9dbe-cb4501bd3616.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/07bc0104-665e-44a9-a9de-6489267d41aa.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/899c2a8c-c2da-4223-a099-462191dcfa3d.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/46550084-c928-4aba-a5d0-c52ee38810fd.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/657cbe2b-7322-486a-b6bb-612c2ebd6c87.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/76516049-82d5-4329-81c9-c472f65b0367.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ed871790-c7c0-4162-b525-6baec6dc13bf.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2b5535b5-24a6-41b2-9fb9-0048f44bf67a.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/56266dd0-9e2a-4380-b2dd-3c9360e45b02.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/49f927f5-2052-44b6-ba1b-57ff3d99f790.jpeg,Normal - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3dee69be-b8c6-4758-8030-8ced156eed50.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/458879b1-e2dd-4ee2-b58d-3fca62259b42.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/22f65777-869b-40e1-ba6e-d2fe73bdab77.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/738d16ed-7790-415f-8fd8-b0fb20549575.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5edf8bbe-3d4a-4316-a8a0-ca40be87e048.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/27f7f1d9-909a-46a4-960c-4bcd2f179927.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4651f13e-d486-4e69-85ba-888f3b90480a.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/951766b0-fb45-483b-8938-5f37a9858295.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d0c4f965-da38-4e3c-bde9-d86aaddb0e44.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e03b7520-e5a9-4e45-aaa4-5c75210a13f3.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bfe8cddd-c2b8-4450-b81e-3862d227b666.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4959a1f8-b8bc-430a-9b86-9e5ddb53508d.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8f068d33-4e47-476f-8881-0f9e891699fb.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4dc54404-6c4c-46c2-b43d-062cc134d794.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a8407fef-7c81-42e5-a73e-1e2876d01035.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a7050e1a-10b9-48d7-9413-9920f93f66e7.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6bb1b6e1-6062-48d9-9a91-bf44d090787c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5d9fbe87-1876-4c17-951e-d0382bed8bb7.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/26c99de9-623d-4a7f-ba49-d9c85bdda761.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d864268a-4a01-4dc0-bf6f-08dc7ad9eecf.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2fb66aa6-3e62-400a-8fa7-ebfc4f7f122a.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/359f0e9f-a80d-45fe-af48-5bef93c10383.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6362c4db-f722-4433-b96f-3d35a0fc0129.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/eedbef2b-09fc-495a-b600-c44a720f5977.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/162160ca-19ae-4557-b315-ec9c0b4b5cce.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d94eac21-7f12-4f50-b192-63b95871776a.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/130e3615-5340-4c80-8570-32ea82043722.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e73d1326-6caf-4e9f-b8f2-246f4975b48c.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1194cf14-be1b-4078-8625-5ad47e823513.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/710fd279-6469-4178-8d4b-cf9690e9fa91.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a4f78a4a-226c-4cc5-a1e0-17b408f66789.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fa5e2107-9441-4cd4-858c-bd852798d167.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/482a60f7-2fec-4321-82ca-3ff8825b6547.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4265cdd7-1866-49ae-9e3c-47a47da89d6e.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c5ab14bd-9e08-4e41-93ac-fe53526d9329.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/922ee3a7-8308-481e-8d99-913f471a7984.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ca793c45-515d-491d-aa78-88f7e2bdb906.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1dfdb65b-c177-47b3-b3a5-6d7c1aa1526b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/04cd6006-9736-4c13-8da6-a20984125df0.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e9f9110d-081b-457f-b396-bec439aec71d.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/89919abe-0398-4f08-9b89-eccab24a343c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1847c3ce-04a2-4df5-acf1-925775503365.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2ae1f451-12e0-41fe-9725-b5920eb8f06a.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f14271b5-ae97-4d0a-9e2d-66003c2f74f6.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5adc3b66-17ae-4d08-8d39-7fcd8b196546.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/cfd26dfc-a154-4a43-8e1b-6a6c53b09ebe.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/047c28f1-9774-4f69-a500-bc3bd35c0b82.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/47e3a393-8c63-4a60-bee7-0f6facd7f210.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a8d9bf91-5a1f-4909-9fa2-83bf5baf8b29.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a8f2b181-9dae-4e77-afda-1b2d7f44a7bf.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/59d68bc4-4fb4-4d2f-b630-cf1a1fbec098.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3ff663af-cb02-4c58-a2bc-1b7a2f8d2414.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a6e09cd9-e378-4fc8-8409-adc5975583b0.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3ea71406-8202-4318-a12d-5c5608d19cfc.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1bbd7c8b-780a-4bc8-98a9-ee5c5a7b01af.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9f29e844-da24-42ab-a6d6-afdce587d9b5.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/87c12b43-c8ae-4ffd-b551-40d08180e848.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0cdbd288-a38b-4660-8c35-5d41ce603284.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f6e18ec5-4993-4fb7-8f60-65a2fdd30879.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e51addc0-c0f6-4fff-8f0c-5d8c6ae4700a.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/467f477e-3663-4915-96fb-b5d2f4b31ff2.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4b58a050-4667-42a3-8f4c-67e2f310eeb6.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7b2b7d8b-af36-4449-a59b-8cc8733b8891.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8218d143-b651-4138-b55d-af254a6b1ff5.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/49a3b52e-9594-4998-bcae-2453bffaef4b.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9fb6496f-3445-413b-8b33-1d374c57cee3.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/31583aa1-3e60-4e3a-9774-2622a19e1908.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9e5d31ce-f207-4db8-8531-93b20596d900.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a84a354d-27ed-4370-8b1f-baa85a44c546.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/aa1d3086-2052-4b0b-b7d1-01b80c620ddd.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/06f5f4b9-4186-4ad2-a7ff-a7924c0eb665.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2746735f-1965-4488-ae60-8ab70a11c636.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/b14c3ae7-5d22-4e8d-9fde-920f2e1897d1.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d3701e9b-88dc-436c-8871-734be34795de.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/615e1da9-957b-4fee-b7aa-c8931e6e04ac.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/2146326a-2854-40b6-9d62-406c61a4f786.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ce69935e-0a04-4a4d-aaba-e4321b5aa9a7.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/313a752a-16e9-4ca3-a818-65a1f77b4fe3.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/43e21244-18bf-4654-886c-d4d9dd59db1b.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d8050550-2295-4f1f-b378-4ff17403d473.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5ea3d26c-2df1-4d26-a5c2-952bc8f9a3e6.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/35d0012e-88ce-45a5-ba0e-e1cc45b3482c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ed79c3dd-65c1-4126-a8da-cbd4b8eab070.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4c395dff-1a67-4b8f-89f2-fb6c5a8e9937.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1998d734-17a7-4a1a-81b9-261679f5c79d.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ca9960ac-6c76-4abd-a864-5896fe7c79bd.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c2cdecfe-02ff-4b29-b45c-8fbb99797def.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/31791229-718e-484a-a219-e84a3295992b.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/80b7572c-9375-434d-8639-d7bd75c12962.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a06c29de-5623-4ae6-8827-9f93d7016f14.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1188cdea-ec16-408d-a261-4afca385cbe0.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1b209f98-b01b-4e7e-81aa-fc883357716f.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/21a82533-85ad-4e00-af02-a38ccca52892.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/b7682fe8-59e7-49bc-a969-aacfe889b205.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5ce7d825-8b9d-4e4e-a681-74410425a005.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/47de2a4e-98a9-4f15-beaf-37d49cfee409.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1cd8792e-8e4a-4808-b2f6-d81be5815ba3.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4fb0037d-5c28-4ea7-a8ce-b92e806b0ad6.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c48bcf09-536b-4409-a3f6-4eecf7d5ec4e.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9c86686a-f9e5-48eb-ab78-5c4983f3e66a.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6fb6c5ff-c70a-4959-baa4-9d6210072097.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bd41a501-2eed-4421-b37b-d455d8c695de.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/50f0d31a-39f0-4d1f-9a5d-817b2841f90c.jpeg,Normal - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0fafe8ac-b659-4994-bd77-ec777f3bc441.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/627d9739-7fcb-4d8e-b4a9-916595858647.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d587cd2c-688f-4275-ba75-45a133c8f82a.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ecda84d8-8fa3-476d-8e9d-866af9cd87e5.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/dea7a830-c6ed-44da-b4ec-fe4ad683f1d0.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ff3fc1be-e822-4bc9-a8ce-9881c7fc78d6.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1d3783e8-4afc-4e9a-85ba-1092df7df8a4.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3c01b7f6-5311-4189-98fc-1a8cc4a3bfcb.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4e0e6a7c-46e5-4354-b775-6d00ffe88c57.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7fcd44f7-6a58-499e-8865-584a5e7f62b1.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ee839d6b-aa71-4cf3-8f80-d36e790b29c2.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/12fff1c5-0251-4baf-ad08-0c73fa66fc5c.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/dbd5f4db-db11-47eb-9e88-82f11c6a684e.jpeg,Normal - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/274f9843-048f-4f9a-bc6a-89b43efbbca4.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5b9b11ab-5566-4846-b216-06fa9595b5df.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fa823852-b555-4c69-b657-795fd1bea616.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6a1f00a6-7787-49af-8e2d-838104534997.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ba10ac66-c068-49d9-a64a-137c797cff39.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ad6529d7-7cac-403b-87d1-046a64ed6807.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/84cdbd71-430f-42f8-a5bb-35ca745d8529.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1741ef9f-aa09-470a-aad8-a06be8b589bd.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/81579e42-63ea-4a5c-b1f2-cc30b67a76ce.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/dce087da-2945-4f41-a58c-7c89b39cfdd3.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7214e0d8-3340-477a-90a1-b328584e6b5d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c83a1b06-f0f0-4317-be80-675b354c290a.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e245d311-de72-4b18-b6c7-ac5ac558162e.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d40e0bce-44fb-449c-a3cf-7e8579629632.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/97111d0e-fe97-43fe-8eb6-37085283de88.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c2dd1bc8-6894-4126-8b65-31f6f3bbef82.jpeg,Normal - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6cde4ea6-3710-43ab-8232-eddf3d55433f.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/38fcbcda-0d8a-49ef-b47e-7207a10b77c9.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d0b6b5a1-fe52-4f67-9f51-05db1200296a.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bf7b2152-48d5-4322-ad73-33a631e6f2f8.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9e22179f-aa72-4e8e-aa8d-67aa1be6830a.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/413b38ec-3ef9-4405-8756-a3eceb754320.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/240f45c2-7c2c-4f0d-97f6-550d2f8fd65f.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1d10d454-7320-48a4-9605-b9fc17e756cf.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d9e92065-c6ab-4763-9b66-caa36776201a.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5d9781ed-bc8d-4335-916c-12eae3c6575d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8501aff5-ab31-40bc-b574-2204b008e33b.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/903cde5e-ca2f-4a04-a7a7-ecf7993628ef.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/194689d6-53c9-4b4e-bb35-971190a94a39.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/18b5ca58-3ec6-4ee0-9944-38ad99f55f26.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fe39f02c-a9a1-4c56-aa50-40947156799b.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d7462bcd-ab9a-42e0-b8e7-8598131919ed.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ad2319e8-6a51-4e40-b0e5-1b89f55d6152.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ed5685c5-0514-4d32-a04f-dbc2be1a218f.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/830eb8fb-6703-4173-ab08-32fcf04260d8.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9723aee1-e2d1-44df-84af-a4bcf873db2c.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ba0ba9fd-f203-4551-b3bf-88e49d8db1f8.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/859ece49-43ed-4400-beb5-d7755fff04f4.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/589a8e1d-09aa-4c22-a799-2453b57a7ab7.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/536dde75-e5ca-4ac4-a2c0-958380eade76.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/dc618c88-8bf1-4bb3-b860-8546d3214f93.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bc4a4266-f4a0-4525-ba54-1291754f2397.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0a4daa52-8d8b-40a8-b469-afdaadafb721.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9957c9b1-cf9a-4363-a65d-7eef60c00a9e.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4baa4790-789f-47ef-9385-b88cd1469e61.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6a1f67ae-7169-4863-be8d-7d20704ae35c.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/43219fd4-49d7-44bf-a9dd-d9179e8e3ce5.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3702b18a-64c1-4a5d-9cd0-ef97966a4cea.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8471bef1-e87d-4111-9c7d-cf492031db56.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3655fb88-a74e-496f-89b7-c88582fe89ee.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a5e380e9-86cf-4a4b-89c4-641ee6a22b31.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/52da9870-3fef-471b-83f5-8c0a5f81420c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/54bc03ff-5484-4d4b-b070-bc32a9dec4ae.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fbb11771-205a-47f5-a143-c040364e6853.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d4f65b01-7c4a-4c9b-bfd4-d8eb1bded5e2.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/208bf42a-88da-4467-9834-72810facd600.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4bc38426-3842-4ed3-8c68-bdcffe18d1ed.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fe5205d6-98e7-4c3d-b3dc-b9f473b2795b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0d4ad4f5-0412-4bbf-9028-d2cfe33046ac.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0a80ed19-8ee6-49be-8a1e-5828dbbfb2da.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3570c737-4fb3-4950-b2bb-61103de1223d.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bd8bf8d8-4b9a-413a-a481-d7753239aab4.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8558a9be-8b79-4fa4-9f87-64b667956fa2.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ceb169c1-ebce-4e42-99c1-fbf9c1e00a80.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fd577100-ce4e-4adb-9840-0816149849b0.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/162993cb-bfd5-44df-a279-1a529b5ed3d8.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/fb416dc5-5435-48b8-80e5-f8c9d9c66710.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6a8e1130-c78e-4220-b26b-877dca4fba7c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0823442d-2138-4774-a5ec-face06b23867.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/b3898855-19cd-447d-ae50-b0d47f615eb5.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4bf1659e-6e8e-4683-895b-c485582c7c52.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ac5be253-d505-45d4-b30b-a5ef23a76f79.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ea833ed4-60c5-432b-ba3a-07ac7df6f3e1.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/72987a31-fc81-4004-abd5-717aed500d72.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a31475b0-f5bd-4693-badd-068be8a14b1b.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e804c53f-c8e3-4d2b-b6ce-30f9cf59224d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7d0f0565-f32e-46ac-a7c7-5d156729791e.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a563e6bf-6277-4389-a616-ec59ac286f67.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4450968a-602d-452d-8b29-72fc4132477e.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/b1c3adca-97d9-4d29-8f6e-d4f2bcaa8463.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4a9c5007-2efe-467c-ab28-3592ad7a5083.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9e67a3dc-1055-4674-bf46-7e3e2a74bfc1.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8e3e98ce-5d25-44e8-81b6-82f8b5dc2b70.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/cf569e66-898b-44d3-a914-398d5c07b2fc.jpeg,Viral pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8fde195d-6cf9-42b5-89e0-bf93dd5a4c2e.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/cae2343a-3b4e-4eae-922a-67298f17270d.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e95fd773-06ac-4e0b-af0d-313f810eaf9b.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7fccb0b8-9219-4df2-8808-31f541a5472c.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e5732185-f4cb-4327-abf5-3694b8820d15.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5f6ef274-64f5-42d1-b448-7f06e34e65d4.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e7959c5f-7f88-41ec-abb7-5be0a6145f79.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ce3571b7-b379-452e-8efb-5273ae04715c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a7dde4fc-70a0-410b-81b9-fdf63cc22c1e.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/126ffe82-2492-4683-907e-c9b91cb7cae8.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d26ce591-f597-4093-b5c1-eb43a5384a5b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/67522fb3-4cf0-46fe-bc77-b1db2b13dff8.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8ebd23d0-c7c0-41d9-afb7-b6676b99df3c.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ae9602b1-7614-47ef-9a31-5a38ffcc1e29.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5818b124-2b0e-4b82-8281-dbf69481ce18.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1e519d34-08ee-4a04-a1fa-97f974a3bced.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/32854213-e80a-4715-8e90-cdd2bda30b57.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c33c0210-dc3b-4fb4-a4ca-55705028af1e.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d3fbbc09-56d3-4220-9d5e-45295ec59bf8.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/dbd9ae29-7fa1-4780-b97d-86375610da0d.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c3c62b1d-718f-46f7-8eee-b3ee6020c9d9.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4a142e8b-0734-4e89-9fa0-fb043f0988c7.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e00d2c2b-e91a-4a81-b336-65373fbb192a.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d43a53a2-188a-44fb-ae19-9ad5e98f1988.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/517ec8a9-e31e-4230-a0aa-81acf17163e7.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/321eca06-b78d-4cc4-8c97-84573db68a66.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/33f3ca5d-4cad-4cbc-8bbf-e62fa9c5b912.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e4184ad4-943f-4a22-8f12-0654b3d83b5a.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/94ac7a6e-ceef-49e2-966c-cc835d033e3b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/e12ff941-b092-467c-b9e7-85b698cbe04c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f2c1df20-bdcf-452a-acb4-ef4d6d76a998.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/a42f7f0b-2336-44b6-be70-5541ac29ca5c.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bea18301-5af1-483a-84f9-2bd19b6f9523.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4b3e863d-cab3-4758-806f-6376488c0fed.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/472f8ed7-4c36-4e2d-bfa1-bc3bfd22f882.jpeg,Normal - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8453a9fb-1458-4cc6-a85f-deab6afb4ca1.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ec71c488-5ab8-4b4f-8d20-a52bc76c7505.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f589b310-b08b-4ce9-8f1c-d99fd0293946.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/f5f705d9-8aa6-4281-ad3f-b15e38538580.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3949cdea-a5e1-4717-8d8f-02ea3f0a322c.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0e72d9f9-87f8-4cef-8690-8b4bb5d977f2.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/3f45c052-1c80-4648-b263-90bdb20c7f59.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ac246f25-e1fe-4bf6-b638-b505f7f88e90.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8c3a3531-31a3-4ec4-9d2a-7dacd71eb284.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/565dfcfc-dc73-4966-a149-73fb182acb99.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/0c6a3313-3291-4126-af5e-ac6b0d7a82e4.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1dc5a784-3c89-4ae3-9385-95d905371fd2.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/d815797c-905e-4dc2-911d-1fbe326dfd88.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/5640a63d-b9f5-4719-b2ea-32342b4f88fd.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/aa39b41e-2339-43a9-ab0f-8e17c2c6d1e5.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/ca712984-3c8c-49ce-9b38-bf33cc4d5637.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6616e871-0d0a-4da5-95c9-6bba141bff45.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6ddb11ce-9e43-46a9-9549-44bd797af140.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/6b048a00-35cf-46ce-ad75-6188ec38509f.jpeg,Bacterial pneumonia - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/7009fa19-ac29-40a5-98b8-d9237a3e1bd3.jpeg,Normal - 100
+VALIDATION,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/29284d44-889b-47f3-9dc6-107b27304529.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/704b3983-6499-49e4-b57e-8c857867c1f3.jpeg,Normal - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/c07b60b8-2e1d-4743-8f97-c52481bc6c2b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/605ca7a1-5678-4d7f-bc62-f0d045469c2d.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/805fe394-4f60-4c0d-b345-2425cd511653.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bbf0d08a-38d9-466b-b50b-e7efe30589ec.jpeg,Bacterial pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/bcc2fe04-5675-4bba-a53f-891730847b62.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8ef71491-8ea4-4269-a874-4e05c4fbae8b.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/8cb3ae2c-c6a6-4e2e-98f4-077984a0dbae.jpeg,Viral pneumonia - 100
+TEST,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/cc9fc76b-d1d5-4216-98ad-460f23cdf272.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/1e1ffb1e-4246-4068-94df-de10f205b5be.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/4a581667-2bf6-4168-a7db-e9e07148b0f6.jpeg,Bacterial pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/66218ee7-1b6b-4ffa-996f-74c113ef0164.jpeg,Viral pneumonia - 100
+TRAIN,gs://p2slckaggle/P2 - Files/export_data-3_class_p2slckaggle-2021-03-06T03:21:58.850700Z/files/9d9212c7-f5a9-4dbd-abcb-c9af5d157649.jpeg,Viral pneumonia - 100
