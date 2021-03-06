@@ -1,0 +1,170 @@
+----- ROUGH DRAFT -----
+
+1)
+
+What is the number of images used for training and testing? In total 594 labelled data was used for training. 297 were labeled as Normal, and 297 labeled Pneumonia. 
+
+Why split data into training and testing sets? It is important to train the model to perform on new inputs (data it has not seen before) in order to test the dataset and evaluate its performance. By measuring the performance and having clear metrics, the team can get better insight into how the model will perform when deployed into production. Of the total set of labeled data, 80% is used for training data, while 20% is used for testing the model. 
+
+What does the confusion matrix show?
+
+The confusion matrix displays the number of true positives, true negatives, false positives and false negatives when given some number of input data points. In other words, it is a grid that shows all the predicted labels relative to all the true labels. It helps to understand the precision and recall of the model by counting the true and false positives, and the true and false negatives. It is also especially important in understanding which are the problematic classes (where the model is failing), to get insight on how to update the model. 
+
+What is the true positive rate for the pneumonia class and the false positive rate for the normal class? 
+
+The true positive rate for the pneumonia class is - 0.97
+The false positive rate for the normal class is - 0
+
+
+What are the values observed in each of the 4 cells in the confusion matrix?
+
+The confusion matrix shows that 97% of the time, the model predicted Pneumonia correctly; while the remaining 3% of the time it gave a false positive prediction of Normal. It also shows that it correctly predicted Normal 100% of the time. 
+
+
+What is precision? 
+The success criteria of the model is typically based on Precision. More specifically, Precision is defined by the number of true positives over all positives - which in turn will be higher when the amount of false positives is low. In other words, it indicates how often the model correctly predicts a positive label. If the model did not meet the necessary criteria, it could mean the training may need to include more edge cases, clearing up of possible ambiguity, or including more cases where the model performed poorly. 
+
+
+What is recall? 
+Recall is the number of true positives over true positives plus false negatives, and will be higher when the number of false negatives is low. It measures how good the model is at identifying actual occurrences of objects in the data - and whether or not the model can recognize these. In other words, the recall will indicate the percentage of real occurrences that were correctly identified by the model. It is also important to be weary of Recall Bias, which is a problem that arises when similar types of data are labeled inconsistently, thus resulting in lower accuracy. 
+
+Both precision and recall will measure the model to understand how it performs in each individual class, and across classes. 
+
+What is the recall and precision you observed?
+
+This model performed at 98.33% in both precision and recall, making this a successful model.
+
+What is the f1 score and how does it change precision and recall?
+
+The F1 score is an overall performance measure of the model that combines precision and recall. Precision will be higher when the amount of false positives is low. Therefore, an increase in the F1 score will result in higher precision / higher recall. An F1 score above 0.75 or 0.8 is generally considered to be decent, however it will depend on the intended application and how critical the performance is to the success of the product. 
+
+
+
+------
+
+2) 
+
+
+How much data was used for training? For testing?
+
+In total 400 labelled data was used for training. 100 were labeled as Normal, and 300 labeled Pneumonia. Of the total set of labeled data, 80% is used for training data, while 20% is used for testing the model. 
+
+
+How is the confusion matrix affected by the data relative to the previous model? What could have potentially caused these results? 
+
+In comparison to the Clean/Balanced Data model, the unbalanced data skewed the perspective of the model’s performance, and is not robust enough to determine whether the model is performing adequately across all classes. The confusion matrix shows that this particular model predicted the true label for both pneumonia and normal cases 100% of the time. However, due to the uneven distribution of the input data, this is likely a very inaccurate result. In this case, having a percentage of the test data (that has not been seen by the model) be split into validation data would be helpful to inform updates to the model parameters during training.
+
+
+How have the model’s precision and recall been affected by the unbalanced data? What are their values?
+
+Based on observation, the model’s confusion matrix shows that it is performing at 100% in both precision and recall. The precision average is 1. The F1 score is 1. 
+
+(See Figure 2 for screenshots)
+
+How do unbalanced classes affect a machine learning model?
+
+How complete the data is, and how well it fits the business use case can really affect the accuracy of the model. In this case, the heavy weight towards pneumonia data may indicate an observer bias (also known as confirmation bias) - where the researcher assumes that in the real-world, there will be more pneumonia cases present, therefore they decide to train the model with more pneumonia cases than normal cases. This however results in inaccurate data, meaning it will likely fail when deployed in the real-world.
+
+
+
+3)
+
+How much data was used for training? For testing?
+
+
+In total 200 labelled data was used for training, 100 were labeled as Normal (but 30 images in the dataset were actually pneumonia images), and 100 were labeled Pneumonia (but 30 images in the dataset were actually normal images). Of the total set of labeled data, 80% was used for training data, while 20% was used for testing the model. 
+
+
+How is the confusion matrix affected by the data relative to the previous model? What could have potentially caused these results? 
+
+
+The true positive rate for the pneumonia class is - 0.7
+The false positive rate for the pneumonia class is - 0.4
+
+(See Figure 3 for screenshots) 
+
+Data labeling is an integral step in data preparation and pre-processing for building AI. This result could have been caused by human biases in collection and annotation, or human biases in data. For example, sampling error, poorly annotated dataset, or recall/measurement bias. Inconsistent annotation during the data labeling stage of a project can prove detrimental to the success of the model. 
+
+How have the model’s precision and recall been affected by the unbalanced data? What are their values?
+
+In this case, the model’s precision and recall rate is at 65%, and the average precision rate is 0.715 - therefore resulting in a low F1 Score, making this model less confident in its results.
+
+How do unbalanced classes affect a machine learning model?
+
+
+The model is only as good as the data it is given; and in this case, it appears that the model is unable to provide sufficient confidence in its results. In comparison to the previous models, the binary classification model that produced the highest precision and recall - and was most likely accurate - was the Clean/Balanced Model. 
+
+
+
+4)
+
+
+Summarize the 3-class model
+For the 3-class model, the data images were labelled in three different categories: bacterial pneumonia, viral pneumonia, and normal. This model compared 100 images of each class to evaluate the confusion matrix, precision and recall, and scalability. Specifically in terms of scalability - whether the model can get to 85% precision and recall. 
+
+Which classes is it most likely to confuse/get right? How to improve the model?
+
+The model was able to predict the bacterial pneumonia class and normal class with a high degree of certainty, but confused viral pneumonia. To improve the performance of a model against a desired outcome, it may be best to train the model on new inputs using the test data to evaluate its performance; and to focus on this class in future training cycles. 
+
+What might you do to try to remedy the model’s “confusion”?
+
+
+
+What are the model’s precision / recall? How are these values calculated (report the values of a score threshold of 0.5): 
+
+The model’s precision and recall is 87.1%, and it’s average precision is 0.93. 
+
+The precision and recall are calculated as follows:
+
+Model Recall = true positives / ground truths = true positives / (true positives + false negatives) 
+
+This can also be written as: 
+Recall = TP / (TP + FN)
+
+Model Precision = true positives / model predictions = true positives / (true positives + false positives)
+
+This can also be written as:
+Precision = TP / (TP + FP)
+
+
+Based on the confusion matrix, the labels are as follows:
+
+True positive bacterial pneumonia = 100%
+True positive viral pneumonia = 60%
+True positive normal = 100% 
+
+False positive pneumonia = 20%
+
+False positive normal = 20%
+
+
+What is the model’s F1 score?
+
+The F1 score can provide an overall performance measure of the model, and takes into account the correctly and incorrectly predicted examples for all classes. 
+
+Equation: 
+
+F1 = ( 2 * R(model) * P(model) ) / R(model) + P(model) 
+
+Let BP represent Bacterial Pneumonia
+Let VP represent Viral Pneumonia 
+Let N represent Normal
+
+
+Recall(BP) = 11 / 11 = 1.0
+Recall(VP) = 6 / 10 = 0.6
+Recall(N) = 10 / 10 = 1
+
+Precision(BP) = 11 / 11 = 1.0
+Precision(VP) = 6 / 10 = 0.6
+Precision(N) = 10 / 10 = 1
+
+
+R(model) = ( 1 + 0.6 + 1 ) / 3 = 2.6 / 3 = 0.87
+P(model) = ( 1 + 0.6 + 1 ) / 3 = 2.6 / 3 = 0.87
+
+F1 = ( 2 * 0.87 * 0.87 ) / (0.87 + 0.87 ) 
+      = 1.51 / 1.74
+      = 0.87 
+
+
